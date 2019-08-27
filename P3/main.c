@@ -7,11 +7,11 @@ int main(int argc, char *argv[]) {
 	//Declaração de vaviavel
 	float cocada, qqueixo, valorTotal;
 	int qtCocada, qtQqueixo;
-	===     === 	===		 ====    ==
+	===     === 	    ===		 ====    ==
 	 ==     ==	   == ==	 == ==   ==
 	  ==   ==	  ==   ==	 ==  ==  == 
 	   == ==	 =========	 ==   == ==
-	    ===		===     ===  ==	   ====
+	    ===		===     ===  	 ==   =====
 	//Recebendo valores para cocada.
 	printf("Preco cocada: R$");
 	scanf("%f", &cocada);
